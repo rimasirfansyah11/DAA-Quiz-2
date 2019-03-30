@@ -126,7 +126,7 @@ __How_To_Use__
 Before you run the program you have to set how many cities (vertices) you have on line 8, make sure to match it to the amount.  After you run the program, you will be asked to state the distance between each city (vertices) that stated by the program and after that, state the source and target.
 
 __Input_and_Output__
-
+![Input_and_Output](https://github.com/rimasirfansyah11/DAA-Quiz-2/blob/master/input%20and%20output.PNG)
 
 __Analysis__
 
