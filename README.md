@@ -6,8 +6,6 @@ index |
 [Problem Abstraction](#problemabstraction) |
 [Design Analysis Algorithms](#daa) |
 [Source Code](#filecpp) |
-[nomor 4](#no4) |
-[nomor 5](#no5) |
 
 ### <a name="problemabstraction" ></a>Problem Abstraction
 
@@ -132,5 +130,7 @@ __Analysis__
 
 Based on the picture in Input and Output, we can declare that there are 5 cities (vertices). Each resemble a letter; A, B, C, D, and E. And also there are the declarations of each distance. After being asked which one is the source and target, it will calculate the shortest distance it could find and then state the nodes we should go through to achieve that goal.
 
+__Note__
 
+While grade was based on contribution on github, we didn’t use it really much since we done this project while gathering together and found that we didn’t really need to use that to pull or push the project, so we do hope that our grades it will divide fairly.
 
