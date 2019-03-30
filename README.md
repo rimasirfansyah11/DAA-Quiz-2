@@ -3,14 +3,16 @@ DAA 2nd Quiz Project (Group 12)
 
 index |
 --- | 
-[nomor 1](#no1) |
+[Problem Abstraction](#problemabstraction) |
 [nomor 2](#no2) |
 [nomor 3](#no3) |
 [nomor 4](#no4) |
 [nomor 5](#no5) |
 
-### <a name="no1" ></a>Problem Abstraction
+### <a name="problemabstraction" ></a>Problem Abstraction
+
 ---
+
 Based on Dijkstra’s History: What is the shortest way to travel from Rotterdam to Groningen, 
 in general: from given city to given city. It is the algorithm for the shortest path, which I 
 designed in about twenty minutes. One morning I was shopping in Amsterdam with my young fiancée, 
@@ -22,4 +24,5 @@ it without pencil and paper. I learned later that one of the advantages of desig
 and paper is that you are almost forced to avoid all avoidable complexities. Eventually that algorithm 
 became, to my great amazement, one of the cornerstones of my fame. — Edsger Dijkstra, in an interview
 with Philip L. Frana, Communications of the ACM, 2001.
+
 ---
