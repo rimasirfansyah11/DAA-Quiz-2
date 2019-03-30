@@ -1,7 +1,7 @@
 # DAA-Quiz-2
 DAA 2nd Quiz Project (Group 12)
 
-index |
+Index |
 --- | 
 [Problem Abstraction](#problemabstraction) |
 [Design Analysis Algorithms](#daa) |
